@@ -1,4 +1,4 @@
-## Get to know:
+## Get To Know:
 
 ### pronoun(s):
 he/him (and you can call me by my name "minh")
