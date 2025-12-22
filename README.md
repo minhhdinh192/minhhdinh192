@@ -4,6 +4,6 @@
 - 🌱 I’m currently studying at Nguyen Gia Thieu High School (2024 -> 2027)
 - 🤔 I’m interested in: IoT Systems Development, Robotics, Machine Learning, Software Engineering, Competitive Programming
 - 📫 How to reach me: 
---> (Facebook)[https://www.facebook.com/sitinhvlxx]
-    (Instagram)[https://www.instagram.com/_mih.din/]
-    (Gmail)[minhh.notminh@gmail.com]
+--> (Facebook)[https://www.facebook.com/sitinhvlxx]  
+    (Instagram)[https://www.instagram.com/_mih.din/]  
+    (Gmail)[minhh.notminh@gmail.com]  
